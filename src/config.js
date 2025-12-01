@@ -11,7 +11,7 @@ module.exports = {
       password: "ENOTFOUND", // Your lavalink password
       port: 2333, // Your lavalink port
       identifier: "Node", // Name for your lavalink
-      secure: true, // set to true if your lavalink has SSL
+      secure: false, // set to true if your lavalink has SSL
       reconnectTimeout: 300000,
       reconnectTries: 100,
     },
