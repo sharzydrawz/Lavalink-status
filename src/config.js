@@ -7,8 +7,8 @@ module.exports = {
 
   nodes: [
     {
-      host: "lavalink.jirayu", // Your lavalink host address 
-      password: "youshallnotpass", // Your lavalink password
+      host: "your-lavalink-host.com", // Your lavalink host address 
+      password: "ENOTFOUND", // Your lavalink password
       port: 13592, // Your lavalink port
       identifier: "Node", // Name for your lavalink
       secure: false, // set to true if your lavalink has SSL
